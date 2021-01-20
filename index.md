@@ -1,8 +1,17 @@
 ## Welcome to Winnie's Pages
 
-You can use the [editor on GitHub](https://github.com/LiryWinnie/LiryWinnie.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Wenyu Peng</h1>
+      <p><b>Master Degree Candidate</b></p>
+      <p><b>Piolet School of Software, Yunnan University</b></p>
+    </td>
+    <td width="25%">
+      <img src="/xiaopeng.PNG" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### Wenyu Peng
 
